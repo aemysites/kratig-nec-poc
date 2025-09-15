@@ -1,0 +1,623 @@
+{
+  "originUrl": "https://www.nec.com",
+  "aborted": false,
+  "lastCrawled": "https://www.nec.com/",
+  "urls": [
+    {
+      "url": "https://www.nec.com/en/case/asia_direct_cable/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/asia-direct-cable",
+      "id": "932f415cc2b5016f49c3f11b6538ed9ede21571f"
+    },
+    {
+      "url": "https://www.nec.com/en/case/bechtle/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/bechtle",
+      "id": "31503e0db12889d9adc0ce07da5eb9aa4b69ebb0"
+    },
+    {
+      "url": "https://www.nec.com/en/case/beckers/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/beckers",
+      "id": "5b7753b93a769f2f6a27783b27552679599b60a1"
+    },
+    {
+      "url": "https://www.nec.com/en/case/cordoba/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/cordoba",
+      "id": "68dcf480fab3ff4fbc3e70c1de4c443cc71f5110"
+    },
+    {
+      "url": "https://www.nec.com/en/case/eneco/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/eneco",
+      "id": "7e201f1d2f4b76eb27771fed41b6ade71843fbb1"
+    },
+    {
+      "url": "https://www.nec.com/en/case/footer_n.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/footer-n",
+      "id": "c3fec81f5bfbd4abd8744cd2b50805e88abfb8f2"
+    },
+    {
+      "url": "https://www.nec.com/en/case/frederikshavn_municipality/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/frederikshavn-municipality",
+      "id": "a8ff636011197635dd30fd5dc7338b4cbd1d9fb0"
+    },
+    {
+      "url": "https://www.nec.com/en/case/GBK/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/gbk",
+      "id": "21cdd4e251241f7a017e1960b3014cfcce74f307"
+    },
+    {
+      "url": "https://www.nec.com/en/case/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case",
+      "id": "32845fc23e01c96c97c4efea116497d48870b16b"
+    },
+    {
+      "url": "https://www.nec.com/en/case/lockheed_martin/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/lockheed-martin",
+      "id": "d409fbf8185d496de1c4c9f69b3f06f9949b01f6"
+    },
+    {
+      "url": "https://www.nec.com/en/case/mps/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/mps",
+      "id": "fa0664358e72b808146a6f0ba514d1d971743bac"
+    },
+    {
+      "url": "https://www.nec.com/en/case/NSHOF/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/nshof",
+      "id": "ecbda8bb14d484dd25893c0f655d7a00b967702b"
+    },
+    {
+      "url": "https://www.nec.com/en/case/nsw/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/nsw",
+      "id": "029fd7623e6c8cb8b4d6658258ecf8ae3f665a0a"
+    },
+    {
+      "url": "https://www.nec.com/en/case/rakuten-mobile/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/rakuten-mobile",
+      "id": "2f2e218372f875fa8cb91124984a440dc4d16ea6"
+    },
+    {
+      "url": "https://www.nec.com/en/case/ROH/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/roh",
+      "id": "01f4e944a075652e60cbc687d8c5bb030ffccbe3"
+    },
+    {
+      "url": "https://www.nec.com/en/case/submarine_cable/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/submarine-cable",
+      "id": "bb31aee862bbaed18635dec18a64d5652690e648"
+    },
+    {
+      "url": "https://www.nec.com/en/case/uidai/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/uidai",
+      "id": "32607a7160c73ccf7ac298f1272456fea6b16b9e"
+    },
+    {
+      "url": "https://www.nec.com/en/case/westhq/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/case/westhq",
+      "id": "36a6812ce188b69c9a89e9d6795a389e96d39dde"
+    },
+    {
+      "url": "https://www.nec.com/en/event/backnumber.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/event/backnumber",
+      "id": "24a0e05bf48007fde5270ccc87e462483d465408"
+    },
+    {
+      "url": "https://www.nec.com/en/event/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/event",
+      "id": "fc767513e6243d43374e5b034354eb05ffad4aa0"
+    },
+    {
+      "url": "https://www.nec.com/en/global/design/case/airport.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/design/case/airport",
+      "id": "babe02fee80c1c690da22bc1e60966845a1a2c8a"
+    },
+    {
+      "url": "https://www.nec.com/en/global/design/case/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/design/case",
+      "id": "1f5d346f3bd089e03a83dd90a91555846939fe56"
+    },
+    {
+      "url": "https://www.nec.com/en/global/design/code.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/design/code",
+      "id": "f1179077c0ad1d28e7136293a8fcd98270d295be"
+    },
+    {
+      "url": "https://www.nec.com/en/global/design/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/design",
+      "id": "54b6e5f2acb29dbec0fb700965938869762845a3"
+    },
+    {
+      "url": "https://www.nec.com/en/global/design/svd/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/design/svd",
+      "id": "484f882e1395fc8a53697b4bfa32e214c59f8b3c"
+    },
+    {
+      "url": "https://www.nec.com/en/global/design/svd/policy/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/design/svd/policy",
+      "id": "485bf493831ea5b0739c78f1d3a91dc0ebc228ce"
+    },
+    {
+      "url": "https://www.nec.com/en/global/design/ud/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/design/ud",
+      "id": "8c7b232cb18b88b6e1de4ea8829e5c5892028a76"
+    },
+    {
+      "url": "https://www.nec.com/en/global/innovation/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/innovation",
+      "id": "31ce41004a3f9a53ae073968d67bb6ad56240429"
+    },
+    {
+      "url": "https://www.nec.com/en/global/innovation/innovation-models.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/innovation/innovation-models",
+      "id": "0d7e12b64c957ee7447e7fe3f6dc1e11387eb37b"
+    },
+    {
+      "url": "https://www.nec.com/en/global/innovation/interview/20250331.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/innovation/interview/20250331",
+      "id": "a2f6d9dea29f6c124c8ca6da9991e33c7616bcca"
+    },
+    {
+      "url": "https://www.nec.com/en/global/innovation/interview/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/innovation/interview",
+      "id": "a6a4d603edaef5b3ee7085fb7865afb00b6e5dd5"
+    },
+    {
+      "url": "https://www.nec.com/en/global/innovation/message/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/innovation/message",
+      "id": "de0ee2e342e3f31cdfdda53d8e8959ef4f78c850"
+    },
+    {
+      "url": "https://www.nec.com/en/global/innovation/news/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/innovation/news",
+      "id": "ff70392cb4fe4a5f87c1389124c472f11b5c860c"
+    },
+    {
+      "url": "https://www.nec.com/en/global/innovation/nic/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/innovation/nic",
+      "id": "b5da3a457adfe02f993fa8e5a786232a075e5db9"
+    },
+    {
+      "url": "https://www.nec.com/en/global/innovation/noff/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/innovation/noff",
+      "id": "10cd2565d6adfa2cef9f4986c33cd1793860a6b5"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/event/supercomputing/auroraforum.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/event/supercomputing/auroraforum",
+      "id": "cfa6706c6fa225588c514dcd86e20300c02d6b92"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/event/supercomputing/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/event/supercomputing",
+      "id": "f78cc3f59d8ba80ad0309929c421bbceda0aef79"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/event/supercomputing/video/quantum_computing_tech.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/event/supercomputing/video/quantum-computing-tech",
+      "id": "592397f21697e4e2b2c82c831be47455039eb8e3"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/event/supercomputing/video/sx-aurora_tsubasa.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/event/supercomputing/video/sx-aurora-tsubasa",
+      "id": "1b7dd55caaad78ad9080ca92e3909c34b9d7cc7d"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/event/supercomputing/video/video01.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/event/supercomputing/video/video01",
+      "id": "72bf4e5a223105697c0d2d70d5d50d94e05de049"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/event/supercomputing/video/video02.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/event/supercomputing/video/video02",
+      "id": "54b56ebcccc8fd32d4de25ac116ea3fddefe4b11"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/event/supercomputing/video/video03.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/event/supercomputing/video/video03",
+      "id": "bee4c061f83b3379b2f5e33cad89bc9f0b189f43"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/event/supercomputing/video/video04.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/event/supercomputing/video/video04",
+      "id": "19953971a0387e638d3815874da975a1557729e8"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/event/supercomputing/video/video05.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/event/supercomputing/video/video05",
+      "id": "4bad460539bdefd0a265892554c32bbba7bcd6dc"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/event/supercomputing/video/video06.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/event/supercomputing/video/video06",
+      "id": "62234afe6522c14ff057c6504ad62eef7e6120d5"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/event/supercomputing/video/video2022_01.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/event/supercomputing/video/video2022-01",
+      "id": "a44b618a568cb544e0519dfd1a095b9ef2792f30"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/event/supercomputing/video/video2022_02.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/event/supercomputing/video/video2022-02",
+      "id": "ad8ee7e2b81e53e01176434bd98a5fc84918c43f"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/event/supercomputing/video/video2022_03.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/event/supercomputing/video/video2022-03",
+      "id": "4ce43de95843c921e71408d3beee0295516102c3"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/research_projects/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/research-projects",
+      "id": "54ab58cb32c4f21558be22df1e7f259d40b44eae"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/research_projects/Workshop_on_Sustained_Simulation_Performance.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/research-projects/workshop-on-sustained-simulation-performance",
+      "id": "77144cfaf67ebb813a550359ea7fcfcb5f11e770"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/storage/bxfs.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/storage/bxfs",
+      "id": "f2a9dab60e33e98c8bb76ee06b37d31df64d55d1"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/storage/gxfs.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/storage/gxfs",
+      "id": "45e15c126835f1c420a017e2cc9660bae80c854f"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/storage/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/storage",
+      "id": "5d52b77fe2aa12a686e9bc5ec5eb10c735d7787e"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/storage/lxfs.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/storage/lxfs",
+      "id": "e005ef285ecd95d009fd5cdb2c27cf43bb785c25"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/storage/nvmef.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/storage/nvmef",
+      "id": "ba50b1fe08902b30d05cf213d1c6f22789258041"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/storage/qxfs.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/storage/qxfs",
+      "id": "017fdc115255c5c4f5cd054b8af4f87fc9c7951d"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/storage/scatefs.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/storage/scatefs",
+      "id": "c62c50ae174e1422a24770bdb34516e3b5a25e1f"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/storage/VDURA.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/storage/vdura",
+      "id": "4bbf8fd9b2707ee3dbf4c0f669bceb998810a1f8"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/A101-1.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/a101-1",
+      "id": "8cee0a9972b1d133bd9b48934d057be6d5b171fb"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/A111-1.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/a111-1",
+      "id": "2bc7433365b3bb1fea6259327778c83cb644cd9f"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/A311-4.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/a311-4",
+      "id": "d0af7acd31ff30c1ab042854da5db151f703332b"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/A311-8.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/a311-8",
+      "id": "1db71afd03e610f6655f2e9a362c01e44946149a"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/A511-64.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/a511-64",
+      "id": "e8f6eaf10bfea6810c8142aa5676c1c37ee9d42b"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/Applications.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/applications",
+      "id": "1cce6cfb1536766e09b496fd1f4cc2dbf87b9f3e"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/architecture.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/architecture",
+      "id": "d0624273230700831a863aafd665ca25a7a146f2"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/B300-8.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/b300-8",
+      "id": "73872fca4f5c7f86da212e1337a1d8b8af9fcfc7"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/B401-8.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/b401-8",
+      "id": "e3c88d1ddf24f5edb72fcf966e858d4a0d5e1d29"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx",
+      "id": "3d91cabb9d0c121b5d01f224dd71f63ff2958d4e"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/software.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/software",
+      "id": "0630038f2d87989a36019657d088aa6ce0b13c38"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/tools.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/tools",
+      "id": "fdfccdb9d28c8528c2f116175fa588f6f93f3506"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/VE-Card-Data.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/ve-card-data",
+      "id": "29c68662f63fa29fbaaf0d13bd8941f4a92441f7"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/VE-Card-Edge.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/ve-card-edge",
+      "id": "806f06e2b3ebb222a8737c56ef4f5e5d7cd53aa3"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/VE-Card-Onsite.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/ve-card-onsite",
+      "id": "df2352ba1d10e01e8cb86ddf8655b9b2f2455654"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/VE-Card.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/ve-card",
+      "id": "0f9c67f79e1cd3c196b17f836811da5965fa66c3"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/vector_engine.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/vector-engine",
+      "id": "8f74f7bcf1ee4d7841aaa359a9b469f43f08a226"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/Vector-Engine-Types.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/vector-engine-types",
+      "id": "638c2a05d3fad53d4acab0b1382f507ad425cea5"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/hpc/sx/VH-Selection.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/hpc/sx/vh-selection",
+      "id": "abc755f96abbcfe1088228c05c730ba84b4df947"
+    },
+    {
+      "url": "https://www.nec.com/en/global/solutions/monitor.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/global/solutions/monitor",
+      "id": "2109b3b14923b18e56959416080baa0ffeb55703"
+    },
+    {
+      "url": "https://www.nec.com/en/hoge.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en/hoge",
+      "id": "d1a80181bf25ac4a25ec98c546dcfa97512eb764"
+    },
+    {
+      "url": "https://www.nec.com/en/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/en",
+      "id": "ebc039912fdf83a244e9fe6da338e23a305c7417"
+    },
+    {
+      "url": "https://www.nec.com/es/case/GBK/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/es/case/gbk",
+      "id": "0342c4a521213a6dbde9ddc9c9d53bc433a75c69"
+    },
+    {
+      "url": "https://www.nec.com/es/case/rakuten-mobile/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/es/case/rakuten-mobile",
+      "id": "1a93e9cdd84673e387396ccdb1268d1be584c5a1"
+    },
+    {
+      "url": "https://www.nec.com/es/global/insights/article/2020092301/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/es/global/insights/article/2020092301",
+      "id": "4200748b680e6e40c6207a00fa7ef67b46acd16a"
+    },
+    {
+      "url": "https://www.nec.com/google4eeb1e2648b97ec4.html",
+      "source": "SITEMAPS",
+      "targetPath": "/google4eeb1e2648b97ec4",
+      "id": "925e5e6bfb7818aac1547f50ce9c695d022571ac"
+    },
+    {
+      "url": "https://www.nec.com/google88a098ef84314541.html",
+      "source": "SITEMAPS",
+      "targetPath": "/google88a098ef84314541",
+      "id": "1c5faa518bcfc2ad0746b632ac85d5cc514a71ee"
+    },
+    {
+      "url": "https://www.nec.com/google9a06ba0a207dc4bb.html",
+      "source": "SITEMAPS",
+      "targetPath": "/google9a06ba0a207dc4bb",
+      "id": "b4e678116f3e39c309ae4ec6b57f96df83505e40"
+    },
+    {
+      "url": "https://www.nec.com/googlece0f37c88fa78337.html",
+      "source": "SITEMAPS",
+      "targetPath": "/googlece0f37c88fa78337",
+      "id": "9b169ba2d2dafc275572c238bac41f5cef4a2b3f"
+    },
+    {
+      "url": "https://www.nec.com/googleefc3b8daa0eaffe8.html",
+      "source": "SITEMAPS",
+      "targetPath": "/googleefc3b8daa0eaffe8",
+      "id": "bf23d8ea2ec65d12b912b98568a87b2a6cf8d1b4"
+    },
+    {
+      "url": "https://www.nec.com/googlef55b06266ed3e911.html",
+      "source": "SITEMAPS",
+      "targetPath": "/googlef55b06266ed3e911",
+      "id": "352f1b73ae2326790cd0d24161eec23a51ddcd54"
+    },
+    {
+      "url": "https://www.nec.com/googleffeae1fe70a5df4b.html",
+      "source": "SITEMAPS",
+      "targetPath": "/googleffeae1fe70a5df4b",
+      "id": "bb82a3afa8d001754c7787f081d4de48681f03ef"
+    },
+    {
+      "url": "https://www.nec.com/pt/case/rakuten-mobile/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pt/case/rakuten-mobile",
+      "id": "0e27f2b091f0de71f4d5623fd0a9c0429054f21d"
+    },
+    {
+      "url": "https://www.nec.com/pt/global/insights/article/2020092301/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/pt/global/insights/article/2020092301",
+      "id": "ad46401c1050f50b582cf714fd36bcd5c7b72800"
+    },
+    {
+      "url": "https://www.nec.com/search/result.html",
+      "source": "SITEMAPS",
+      "targetPath": "/search/result",
+      "id": "78afa72003c303129c69cb90ee3599da20037d11"
+    },
+    {
+      "url": "https://www.nec.com/zh/global/prod/emistream/2layer.html",
+      "source": "SITEMAPS",
+      "targetPath": "/zh/global/prod/emistream/2layer",
+      "id": "401cdec9b51d5beba9fb23102f466565fc7e9c8e"
+    },
+    {
+      "url": "https://www.nec.com/zh/global/prod/emistream/cad_i_f.html",
+      "source": "SITEMAPS",
+      "targetPath": "/zh/global/prod/emistream/cad-i-f",
+      "id": "569d146667728f2bc153b00402c5e62b21e45086"
+    },
+    {
+      "url": "https://www.nec.com/zh/global/prod/emistream/emistream.html",
+      "source": "SITEMAPS",
+      "targetPath": "/zh/global/prod/emistream/emistream",
+      "id": "2ba2a02b87e452344c3be03f25a28fdff3f80af5"
+    },
+    {
+      "url": "https://www.nec.com/zh/global/prod/emistream/index.html",
+      "source": "SITEMAPS",
+      "targetPath": "/zh/global/prod/emistream",
+      "id": "f49136021eb9099ae8bc7e3c085265f9b8f318b7"
+    },
+    {
+      "url": "https://www.nec.com/zh/global/prod/emistream/key_functions.html",
+      "source": "SITEMAPS",
+      "targetPath": "/zh/global/prod/emistream/key-functions",
+      "id": "1bd44cdc6484d7f7bfe5a66258cf3d879e2f43b3"
+    },
+    {
+      "url": "https://www.nec.com/zh/global/prod/emistream/option.html",
+      "source": "SITEMAPS",
+      "targetPath": "/zh/global/prod/emistream/option",
+      "id": "3b427588ea968b91a74b938a6f89a3ecab397ec0"
+    },
+    {
+      "url": "https://www.nec.com/zh/global/prod/emistream/success_story.html",
+      "source": "SITEMAPS",
+      "targetPath": "/zh/global/prod/emistream/success-story",
+      "id": "31b9be6058fce3abbbaff23c7240de63e48df831"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none",
+  "error": null
+}

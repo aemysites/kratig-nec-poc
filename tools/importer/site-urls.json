@@ -232,12 +232,6 @@
       "id": "592397f21697e4e2b2c82c831be47455039eb8e3"
     },
     {
-      "url": "https://www.nec.com/en/global/solutions/hpc/event/supercomputing/video/sx-aurora_tsubasa.html",
-      "source": "SITEMAPS",
-      "targetPath": "/en/global/solutions/hpc/event/supercomputing/video/sx-aurora-tsubasa",
-      "id": "1b7dd55caaad78ad9080ca92e3909c34b9d7cc7d"
-    },
-    {
       "url": "https://www.nec.com/en/global/solutions/hpc/event/supercomputing/video/video01.html",
       "source": "SITEMAPS",
       "targetPath": "/en/global/solutions/hpc/event/supercomputing/video/video01",
@@ -472,12 +466,6 @@
       "id": "2109b3b14923b18e56959416080baa0ffeb55703"
     },
     {
-      "url": "https://www.nec.com/en/hoge.html",
-      "source": "SITEMAPS",
-      "targetPath": "/en/hoge",
-      "id": "d1a80181bf25ac4a25ec98c546dcfa97512eb764"
-    },
-    {
       "url": "https://www.nec.com/en/index.html",
       "source": "SITEMAPS",
       "targetPath": "/en",
@@ -500,48 +488,6 @@
       "source": "SITEMAPS",
       "targetPath": "/es/global/insights/article/2020092301",
       "id": "4200748b680e6e40c6207a00fa7ef67b46acd16a"
-    },
-    {
-      "url": "https://www.nec.com/google4eeb1e2648b97ec4.html",
-      "source": "SITEMAPS",
-      "targetPath": "/google4eeb1e2648b97ec4",
-      "id": "925e5e6bfb7818aac1547f50ce9c695d022571ac"
-    },
-    {
-      "url": "https://www.nec.com/google88a098ef84314541.html",
-      "source": "SITEMAPS",
-      "targetPath": "/google88a098ef84314541",
-      "id": "1c5faa518bcfc2ad0746b632ac85d5cc514a71ee"
-    },
-    {
-      "url": "https://www.nec.com/google9a06ba0a207dc4bb.html",
-      "source": "SITEMAPS",
-      "targetPath": "/google9a06ba0a207dc4bb",
-      "id": "b4e678116f3e39c309ae4ec6b57f96df83505e40"
-    },
-    {
-      "url": "https://www.nec.com/googlece0f37c88fa78337.html",
-      "source": "SITEMAPS",
-      "targetPath": "/googlece0f37c88fa78337",
-      "id": "9b169ba2d2dafc275572c238bac41f5cef4a2b3f"
-    },
-    {
-      "url": "https://www.nec.com/googleefc3b8daa0eaffe8.html",
-      "source": "SITEMAPS",
-      "targetPath": "/googleefc3b8daa0eaffe8",
-      "id": "bf23d8ea2ec65d12b912b98568a87b2a6cf8d1b4"
-    },
-    {
-      "url": "https://www.nec.com/googlef55b06266ed3e911.html",
-      "source": "SITEMAPS",
-      "targetPath": "/googlef55b06266ed3e911",
-      "id": "352f1b73ae2326790cd0d24161eec23a51ddcd54"
-    },
-    {
-      "url": "https://www.nec.com/googleffeae1fe70a5df4b.html",
-      "source": "SITEMAPS",
-      "targetPath": "/googleffeae1fe70a5df4b",
-      "id": "bb82a3afa8d001754c7787f081d4de48681f03ef"
     },
     {
       "url": "https://www.nec.com/pt/case/rakuten-mobile/index.html",
